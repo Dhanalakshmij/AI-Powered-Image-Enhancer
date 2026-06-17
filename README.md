@@ -1,4 +1,4 @@
-# 🖼️ AI-Powered Image Enhancer
+# AI Powered Image Enhancer
 
 This is a simple **Image Enhancer** web app built using **Flask, HTML, CSS, JavaScript, and OpenCV**. It allows users to upload an image and apply real-time enhancements such as **brightness, contrast, grayscale, invert colors, and blur effects**.
 
